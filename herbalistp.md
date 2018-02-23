@@ -1,0 +1,4 @@
+	Uma das principais razões pelas quais eu escolhi me especializar na area de tecnologia é pela possibilidade de criar coisas novas todos os dias. Acordar e sentir aquela motivação de ver um projeto seu bem estruturado, robusto, e com uma interface que o usuario tenha o prazer de usar.
+Quero atuar primeiramente na area de Frontend, Web Design criando interfaces que sejam scalable e responsive. Depois vou me especializar em uma linguagem de Backend para estruturar todo o programa desde o começo.
+	
+	A empresa ideal para mim seria uma empresa bem informal,  sem muitas regras e em qual eu me sinta bem a vontade para fazer meu trabalho e criar coisas novas todos os dias. Me imagino trabalhando em uma empresa de desenvolvimento com novos desafios todos os dias, uma empresa onde tenhamos liberdade para fazer coisas do nosso jeito e tambem onde possa aprender com os programadores mais experientes
